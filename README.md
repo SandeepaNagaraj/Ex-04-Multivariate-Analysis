@@ -141,36 +141,7 @@ plt.xticks(rotation = 90)
 ![image](https://user-images.githubusercontent.com/113017853/193248656-c688b281-1e01-4335-8408-06a5534c2894.png)
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-##RESULT
+## RESULT
 ```
 The given dataset is read and Multivariate analysis is performed. The inferences are:
 
