@@ -88,49 +88,52 @@ plt.xticks(rotation = 90)
 ![image](https://user-images.githubusercontent.com/113017853/193247866-299e3da8-9455-4278-a83b-e50238d5ca8d.png)
 
 ### Dataset Head 
-![image](https://user-images.githubusercontent.com/113017853/193247966-c1c496eb-c66f-4c37-9e8b-17339731cb23.png)
+![image](https://github.com/SandeepaNagaraj/Ex-04-Multivariate-Analysis/blob/main/2.png)
 
 ### Dataset Info
-
-![image](https://user-images.githubusercontent.com/113017853/193248012-24b5ec56-6314-4a0c-b749-923ff6959a74.png)
+![image](https://user-images.githubusercontent.com/113017853/193247966-c1c496eb-c66f-4c37-9e8b-17339731cb23.png)
 
 ### Dataset Describe
 
-![image](https://user-images.githubusercontent.com/113017853/193248066-1fd73cc7-3c76-410f-9d83-c97ff5bee167.png)
+![image](https://user-images.githubusercontent.com/113017853/193248012-24b5ec56-6314-4a0c-b749-923ff6959a74.png)
 
 ### Dataset Tail
 
-![image](https://user-images.githubusercontent.com/113017853/193248099-b38d7bb2-407a-4711-b5bd-12fc32dd0426.png)
+![image](https://user-images.githubusercontent.com/113017853/193248066-1fd73cc7-3c76-410f-9d83-c97ff5bee167.png)
 
 ### Dataset Shape
 
-![image](https://user-images.githubusercontent.com/113017853/193248141-eff09835-54e5-41c1-823f-339469ddc1aa.png)
+![image](https://user-images.githubusercontent.com/113017853/193248099-b38d7bb2-407a-4711-b5bd-12fc32dd0426.png)
 
 ### Dataset Columns
 
-![image](https://user-images.githubusercontent.com/113017853/193248171-9e4b6e55-a908-4152-ab48-b2576c0614a5.png)
+![image](https://user-images.githubusercontent.com/113017853/193248141-eff09835-54e5-41c1-823f-339469ddc1aa.png)
 
 ### Null Values - Pre Cleaning
 
-![image](https://user-images.githubusercontent.com/113017853/193248198-73608e2e-2249-4e55-85ea-b08f16f34f75.png)
+![image](https://user-images.githubusercontent.com/113017853/193248171-9e4b6e55-a908-4152-ab48-b2576c0614a5.png)
 
 ### Dataset Duplicated
 
-![image](https://user-images.githubusercontent.com/113017853/193248231-b70ca50a-b5ab-44aa-9566-17bf63c0f75e.png)
+![image](https://user-images.githubusercontent.com/113017853/193248198-73608e2e-2249-4e55-85ea-b08f16f34f75.png)
 
 ### Null Values - Post Cleaning
 
-![image](https://user-images.githubusercontent.com/113017853/193248275-9611fd50-cbb7-4878-ad98-f1e199cf209d.png)
+![image](https://user-images.githubusercontent.com/113017853/193248231-b70ca50a-b5ab-44aa-9566-17bf63c0f75e.png)
 
 ### Multivariate Analysis - State
 
-![image](https://user-images.githubusercontent.com/113017853/193248347-8f25a04a-effc-4ea8-be78-9b580164ee2c.png)
+![image](https://user-images.githubusercontent.com/113017853/193248275-9611fd50-cbb7-4878-ad98-f1e199cf209d.png)
 
 ### Multivariate Analysis - Segment
 
-![image](https://user-images.githubusercontent.com/113017853/193248595-a925af4a-750e-4270-8475-fe67e9798493.png)
+![image](https://user-images.githubusercontent.com/113017853/193248347-8f25a04a-effc-4ea8-be78-9b580164ee2c.png)
 
 ### Multivariate Analysis - Ship Mode & Category vs Sales
+
+![image](https://user-images.githubusercontent.com/113017853/193248595-a925af4a-750e-4270-8475-fe67e9798493.png)
+
+Multivariate Analysis - Heat Map
 
 ![image](https://user-images.githubusercontent.com/113017853/193248656-c688b281-1e01-4335-8408-06a5534c2894.png)
 
