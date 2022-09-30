@@ -141,6 +141,7 @@ plt.xticks(rotation = 90)
 
 
 ##RESULT
+```
 The given dataset is read and Multivariate analysis is performed. The inferences are:
 
 Most sales were from the California State
@@ -148,3 +149,4 @@ Most sales were from Consumer Segment
 Most sales were from "New York City"
 Most Sales were shipped on the Same Day and is most from Technology
 Highest sale was from Machines Sub-category and is shipped in standard class
+```
