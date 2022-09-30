@@ -127,13 +127,16 @@ plt.xticks(rotation = 90)
 
 ### Multivariate Analysis - Segment
 
-![image](https://user-images.githubusercontent.com/113017853/193248347-8f25a04a-effc-4ea8-be78-9b580164ee2c.png)
+![o](https://github.com/SandeepaNagaraj/Ex-04-Multivariate-Analysis/blob/main/3.png)
 
 ### Multivariate Analysis - Ship Mode & Category vs Sales
+![image](https://user-images.githubusercontent.com/113017853/193248347-8f25a04a-effc-4ea8-be78-9b580164ee2c.png)
+
+### Multivariate Analysis - Heat Map
 
 ![image](https://user-images.githubusercontent.com/113017853/193248595-a925af4a-750e-4270-8475-fe67e9798493.png)
 
-Multivariate Analysis - Heat Map
+### Multivariate Analysis - Sub-Category & Ship Mode vs Sales
 
 ![image](https://user-images.githubusercontent.com/113017853/193248656-c688b281-1e01-4335-8408-06a5534c2894.png)
 
